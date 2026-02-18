@@ -71,7 +71,6 @@ OmniScope is part of the larger Omni Games suite:
 
 - **Omni1** – Generate high-precision, clean 1G1R ROM sets  
 - **OmniSelect** – Build curated, device-optimized ROM collections  
-- **OmniBridge** – Organize, manage, and download ROM assets  
 
 ---
 
