@@ -15,7 +15,7 @@ OmniScope provides:
 - **Complete DAT File Control** – Apply precise filters to customize your ROM metadata exactly how you need it.  
 - **Basic and Advanced Filters** – Tailor your data using simple or complex filtering rules.  
 - **Custom Filename Generation** – Add tokens from the `OMNI_TITLES` database to automatically create consistent filenames.  
-- **Fast DAT Generation** – Generate updated DAT files in seconds once filters and filename rules are applied.  
+- **Fast DAT Generation** – Generate updated DAT files in seconds based on filtered selections.  
 - **OmniGames Integration** – Linked DAT files unlock additional filtering options for increased flexibility and precision.  
 - **Online Accessibility** – Use OmniScope entirely in the browser without installing software or managing versions.  
 
@@ -25,7 +25,7 @@ OmniScope is ideal for collectors, preservationists, and anyone looking to manag
 
 ## Features
 
-- Full control over DAT files  
+- Full control over DAT files stored in `OMNI_DAT`  
 - Basic and advanced filtering options  
 - Custom filename generation using tokens from `OMNI_TITLES`  
 - Rapid DAT file generation  
@@ -38,12 +38,11 @@ OmniScope is ideal for collectors, preservationists, and anyone looking to manag
 
 ## How It Works
 
-1. **Load DAT File** – Import your DAT file into OmniScope.  
-2. **Apply Filters** – Use basic or advanced filters to refine the dataset.  
-3. **Customize Filenames** – Add tokens from the `OMNI_TITLES` database to generate consistent, automated filenames.  
-4. **OmniGames Integration** – For DAT files marked as Linked, unlock additional filters for deeper customization.  
-5. **Generate DAT File** – Create a new DAT file in seconds based on your filtered selections.  
-6. **Use in Workflow** – The generated DAT file can be used in OmniSelect, OmniBridge, or other ROM management workflows.  
+1. **Apply Filters** – Use basic or advanced filters to refine ROM metadata stored in `OMNI_DAT`.  
+2. **Customize Filenames** – Add tokens from the `OMNI_TITLES` database to generate consistent, automated filenames.  
+3. **OmniGames Integration** – For collections marked as Linked, unlock additional filters for deeper customization.  
+4. **Generate DAT File** – Create a new DAT file in seconds based on your filtered selections and filename rules.  
+5. **Use in Workflow** – The generated DAT file can be used in OmniBridge.  
 
 ---
 
